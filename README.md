@@ -16,7 +16,8 @@ Additional KPI Metrics : Assess how other KPIs (Average Sales, Number of items, 
 Chart type : Bar chart.
 ### 3. Fat content by outlet for total sale
 Objective : Compare total sales accross different outlets segmented by fat content.  
-Additional KPI Metrics : Assess how other KPIs (Average Sales, Number of items, Average ratings) vary with fat content.  
+Additional KPI Metrics : Assess how other KPIs (Average Sales, Number of item
+s, Average ratings) vary with fat content.  
 Chart type : Stacked column chart.
 ### 4. Total Sales by outlet establised
 Objective : Evaluate how the age or type of outlet established influences the total sales.  
@@ -29,4 +30,6 @@ Objective : Assess the geographical distribution of sales across different locat
 Chart type : Funnel Map  
 ### 7. All metrics by outlet type
 Objective : Provide a comprehensive view of all key metrics (Average Sales, Number of items, Average ratings) broken down by different outlet types.  
-Chart type : Matrix chart  
+Chart type : Matrix chart   
+# Dashboard
+![Screenshot 2025-01-29 215547](https://github.com/user-attachments/assets/ce0c2372-7c82-492f-846b-443d0d12b5b3)
